@@ -47,8 +47,7 @@ return enc;
 }
 
 
-int main(){
-  //Ejecucion(argc,argv);
+int main(int argc, char* argv[]){
   std::ifstream ficheroEntrada;
   std::string frase;
   std::string clave;
